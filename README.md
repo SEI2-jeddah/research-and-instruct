@@ -1,5 +1,5 @@
 # Research and Instruct
-For each team will get to choose one of the topics under thier team name, you will have 30 minute to research about it and 5 minute to talk and explain. Try to research as hard as you can so you can get the chance to teach the class about what you have learned while you are researching. You can be creative by using white board or maybe slides to make it more fun while you are explaining.
+For each team will have a 2 topics to talk about, you will have 15 minute to research about it and 5 minute for each topic to talk and explain. Try to research as hard as you can so you can get the chance to teach the class about what you have learned while you are researching. You can be creative by using white board or maybe slides to make it more fun while you are explaining.
 
 ## Groups
 | 1R | 2R | 3R | 4R | 1L | 2L | 3L | 4L |
